@@ -1,0 +1,4 @@
+body { display: flex; justify-content: center; align-items: center; height: 100vh; background: #fafafa; font-family: sans-serif; }
+.todo { background: white; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px gray; }
+ul { list-style: none; padding: 0; }
+li { margin: 10px 0; }

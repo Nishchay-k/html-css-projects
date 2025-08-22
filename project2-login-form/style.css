@@ -1,0 +1,4 @@
+body { display: flex; height: 100vh; justify-content: center; align-items: center; background: #eee; }
+.login-box { background: white; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px gray; }
+input { display: block; margin: 10px 0; padding: 10px; width: 200px; }
+button { background: #333; color: white; padding: 10px; border: none; cursor: pointer; }
